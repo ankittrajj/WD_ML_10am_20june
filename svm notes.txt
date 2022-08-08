@@ -1,0 +1,15 @@
+Advantage of SVM
+
+1. Effective in high dimensional space.
+2. Effective in cases where number of 
+   dimension is greater than number of samples.
+3. Uses as a subset of training points in the decision function(called support vector).
+   so it is memory efficient.
+4. Versatile with different types of hyperplanes.
+
+
+Disadvantage of SVM
+
+1.If the number of features is much greater than the number of samples,
+ there is a chance of overfitting .
+2. SVM do not directly provide the probalility estimation.
